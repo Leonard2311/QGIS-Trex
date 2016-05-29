@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/TreeExtractor" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>

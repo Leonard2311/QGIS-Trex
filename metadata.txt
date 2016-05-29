@@ -1,0 +1,39 @@
+# This file contains metadata for your plugin. Since 
+# version 2.0 of QGIS this is the proper way to supply 
+# information about a plugin. The old method of 
+# embedding metadata in __init__.py will 
+# is no longer supported since version 2.0.
+
+# This file should be included when you package your plugin.# Mandatory items:
+
+[general]
+name=Tree Extractor
+qgisMinimumVersion=2.0
+description=This plugin extracts the position coordinates of the trees on a specified area
+version=0.1
+author=Leonard Stanescu
+email=leonardstanescu@gmail.com
+
+about=This plugin is designed to extract tree position coordinates from raw LiDAR data.
+
+tracker=https://hub.qgis.org/
+repository=https://github.com/Leonard2311/QGIS-Trex
+# End of mandatory metadata
+
+# Recommended items:
+
+# Uncomment the following line and add your changelog:
+# changelog=
+
+# Tags are comma separated with spaces allowed
+tags=analysis, select
+
+homepage=https://github.com/Leonard2311/QGIS-Trex
+category=Plugins
+icon=icon.png
+# experimental flag
+experimental=True
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+
