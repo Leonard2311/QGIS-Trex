@@ -16,7 +16,7 @@ email=leonardstanescu@gmail.com
 
 about=This plugin is designed to extract tree position coordinates from raw LiDAR data.
 
-tracker=https://hub.qgis.org/
+tracker=https://www.bugzilla.org/
 repository=https://github.com/Leonard2311/QGIS-Trex
 # End of mandatory metadata
 
